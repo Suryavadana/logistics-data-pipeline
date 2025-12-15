@@ -1,0 +1,6 @@
+Shipment_id,customer_id,ship_date,delivery_date,cost,status
+1,101,1/5/2024,1/8/2024,500,Delivered
+2,102,1/7/2024,,700,delivered
+3,101,1/10/2024,1/12/2024,,In Transit
+4,103,1/15/2024,1/20/2024,300,DELIVERED
+4,103,1/15/2024,1/20/2024,300,DELIVERED
